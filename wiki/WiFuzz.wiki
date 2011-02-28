@@ -8,5 +8,4 @@ WiFuzz is a 802.11 fuzzer to trigger corner-case situations in the network stack
 
   * WiFuzz leverages [http://www.secdev.org/projects/scapy/ Scapy] for packet generation.
 
-  * Remember to put your Wi-Fi card in monitor mode before using this tool. Moreover your driver must support
-traffic injection.
+  * Remember to put your Wi-Fi card in monitor mode before using this tool. Moreover your driver must support traffic injection.
