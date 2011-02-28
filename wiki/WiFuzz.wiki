@@ -1,4 +1,4 @@
-#summary WiFuzz.
+#summary About WiFuzz.
 
 = Introduction =
 
